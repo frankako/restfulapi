@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"belong",
+				"belongsTo〔function〕"
+			],
+			[
+				"rando",
+				"randomElement"
+			],
+			[
+				"belongs",
+				"belongsToMany〔function〕"
+			],
+			[
+				"Transa",
+				"transactions〔function〕"
+			],
+			[
+				"users",
+				"userschunks"
+			],
+			[
+				"htm",
+				"htmlspecialchars_decode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/Users/UserController.php",
+			"settings":
+			{
+				"buffer_size": 3057,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Buyers/BuyerController.php",
+			"settings":
+			{
+				"buffer_size": 419,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/17745/RESTFULAPI",
+		"/C/Users/17745/RESTFULAPI/public"
+	],
+	"file_history":
+	[
+		"/C/Users/17745/RESTFULAPI/Vagrantfile",
+		"/C/Users/17745/RESTFULAPI/database/migrations/2020_08_31_202507_create_products_table.php",
+		"/C/Users/17745/RESTFULAPI/database/migrations/2020_08_31_202556_create_transactions_table.php",
+		"/C/Users/17745/RESTFULAPI/database/migrations/2020_08_31_210844_category_product_table.php",
+		"/C/Users/17745/RESTFULAPI/database/seeds/DatabaseSeeder.php",
+		"/C/Users/17745/RESTFULAPI/database/seeds/CategorySeeder.php",
+		"/C/Users/17745/RESTFULAPI/database/factories/ProductFactory.php",
+		"/C/Users/17745/RESTFULAPI/database/factories/TransactionFactory.php",
+		"/C/Users/17745/RESTFULAPI/database/factories/UserFactory.php",
+		"/C/Users/17745/RESTFULAPI/app/User.php",
+		"/C/Users/17745/RESTFULAPI/app/Buyer.php",
+		"/C/Users/17745/RESTFULAPI/app/Seller.php",
+		"/C/Users/17745/RESTFULAPI/config/database.php",
+		"/C/Users/17745/RESTFULAPI/database/seeds/UserSeeder.php",
+		"/C/Users/17745/RESTFULAPI/database/factories/CategoryFactory.php",
+		"/C/Users/17745/RESTFULAPI/database/seeds/ProductSeeder.php",
+		"/C/Users/17745/RESTFULAPI/database/seeds/TransactionSeeder.php",
+		"/C/Users/17745/RESTFULAPI/.env",
+		"/C/Users/17745/RESTFULAPI/app/Product.php",
+		"/C/Users/17745/RESTFULAPI/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/17745/RESTFULAPI/database/migrations/2020_08_31_202432_create_categories_table.php",
+		"/C/Users/17745/RESTFULAPI/app/Transaction.php",
+		"/C/Users/17745/RESTFULAPI/app/Category.php",
+		"/C/Users/17745/RESTFULAPI/.editorconfig",
+		"/C/Users/17745/RESTFULAPI/routes/api.php",
+		"/C/Users/17745/RESTFULAPI/app/Http/Controllers/Controller.php",
+		"/C/Users/17745/RESTFULAPI/app/Providers/RouteServiceProvider.php",
+		"/C/Users/17745/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/17745/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/Users/17745/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/17745/RESTFULAPI/app/test.txt",
+		"/C/Users/17745/RESTFULAPI/test.txt",
+		"/C/Users/17745/RESTFULAPI/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/Users/17745/RESTFULAPI/Homestead.yaml",
+		"/C/Users/17745/SportsRecruits/app/User.php",
+		"/C/Users/17745/SportsRecruits/.env",
+		"/C/Users/17745/SportsRecruits/.env.example",
+		"/C/Users/17745/SportsRecruits/app/Http/Controllers/UserController.php",
+		"/C/Users/17745/SportsRecruits/routes/web.php",
+		"/C/Users/17745/SportsRecruits/tests/Unit/PlayersIntegrityTest.php",
+		"/C/Users/17745/SportsRecruits/resources/views/welcome.blade.php",
+		"/C/Users/17745/SportsRecruits/tests/Feature/ExampleTest.php",
+		"/C/Users/17745/SportsRecruits/phpunit.xml",
+		"/C/Users/17745/SportsRecruits/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/xampp/htdocs/phpsql2/app/admin/posts.php",
+		"/C/xampp/htdocs/phpsql2/app/public/index.php",
+		"/C/xampp/htdocs/loops/index.html",
+		"/C/xampp/htdocs/loops-and-reverse-loops/loops.js",
+		"/C/xampp/htdocs/loops-and-reverse-loops/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" :",
+			"Buyer",
+			"buyer",
+			"Buyer",
+			"buyer",
+			"Buyer",
+			"buyer",
+			"Buyer",
+			"User",
+			"$chunk",
+			"users"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/Users/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								168,
+								168
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1454.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/Buyers/BuyerController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 95.3333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RESTFULAPI.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
